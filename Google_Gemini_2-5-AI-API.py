@@ -6,7 +6,7 @@ import requests
 app = Flask(__name__)
 CORS(app)
 
-key = "AIzaSyC3Rf2wux01ln1APlYuSkIqSutyvSn4Nls"
+key = "AIzaSyBNiPa1Q3TQwwA6D0GXSFhTazIks7pzoBU"
 
 lo8a = {"ar": "Arabic", "fr": "French", "eng": "English"}
 _visits = {}
